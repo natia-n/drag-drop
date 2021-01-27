@@ -1,0 +1,16 @@
+.drag-drop{
+    text-align: center;
+}
+
+.drag-drop div{
+    width: 150px;
+    height: 230px;
+    margin: 20px;
+    display: inline-block;
+    border: 1px solid;
+    vertical-align: top;
+}
+
+.drag-drop img{
+    width: 100%;
+}
